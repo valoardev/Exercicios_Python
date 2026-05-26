@@ -1,3 +1,5 @@
+#Número positivo. Leia um número inteiro e exiba "O número é positivo." se ele for maior que zero
+
 numero = int(input())
 
 if numero > 0:

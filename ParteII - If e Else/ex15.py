@@ -1,3 +1,5 @@
+# Maior entre dois. Leia dois números e exiba qual é o maior. Se forem iguais, informe que são iguais.
+
 num1 = float(input())
 num2 = float(input())
 

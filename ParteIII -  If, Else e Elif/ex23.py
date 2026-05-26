@@ -1,3 +1,6 @@
+# Faixa etária. Leia a idade e classifique: 
+# Criança (0–11), Adolescente (12–17), Adulto (18–59) ou Idoso (60+)
+
 idade = int(input("Insira a sua idade: "))
 
 if idade > 0 and idade <= 11:

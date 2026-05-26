@@ -1,3 +1,6 @@
+# Classificação por nota (conceito). Leia a nota (0 a 10) e 
+# exiba o conceito: A (≥ 9), B (≥ 7), C (≥ 5), D (≥ 3) ou F (abaixo de 3).
+
 nota = float(input("Insira a nota:"))
 
 if nota >= 9:
